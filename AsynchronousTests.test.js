@@ -1,10 +1,9 @@
 /*
 --> 3 ways to make a test async
      --> pass a done() callback 
-     --> return a promess from the test
+     --> return a promis from the test
      --> pass an async function (most clear one)
 */
-
 
      const test = ()=>{
         expect(3).toBe(3);
