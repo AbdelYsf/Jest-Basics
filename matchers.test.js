@@ -1,5 +1,5 @@
 
-const functions = require('./functions');
+const functions = require('./Functions');
 
 
 // matchers 
